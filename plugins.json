@@ -1,13 +1,12 @@
 [
   {
-    "name": "Sony LIV Stream",
-    "description": "Custom provider for Sony LIV OTT contents and Indian TV serials.",
-    "authors": ["ganeshajay"],
+    "name": "Sony LIV ATV Mod",
+    "description": "Sony LIV v6.19.4 Android TV Mod by RBMods application package.",
+    "authors": ["RBMods"],
     "version": 1,
     "url": "https://githubusercontent.com",
     "language": "hi",
-    "iconUrl": "https://githubusercontent.com",
     "tvTypes": ["TvSeries", "Movie"],
-    "resId": "netmirror"
+    "resId": "sonylivatvmod"
   }
 ]
