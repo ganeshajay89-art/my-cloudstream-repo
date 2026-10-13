@@ -1,12 +1,13 @@
 [
   {
-    "name": "My Custom Plugin",
-    "description": "My custom streaming application plugin",
+    "name": "Sony LIV Stream",
+    "description": "Custom provider for Sony LIV OTT contents and Indian TV serials.",
     "authors": ["ganeshajay"],
     "version": 1,
-    "url": "PASTE_YOUR_RAW_GITHUB_DOWNLOAD_LINK_HERE",
-    "language": "en",
+    "url": "https://githubusercontent.com",
+    "language": "hi",
+    "iconUrl": "https://githubusercontent.com",
     "tvTypes": ["TvSeries", "Movie"],
-    "resId": "mycustomplugin"
+    "resId": "netmirror"
   }
 ]
