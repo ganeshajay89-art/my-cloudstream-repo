@@ -1,7 +1,7 @@
 [
   {
     "name": "My Custom Repo",
-    "description": "This is my personal repository for custom streams.",
+    "description": "This is my personal repository for custom applications.",
     "manifestVersion": 1,
     "pluginLists": [
       {
